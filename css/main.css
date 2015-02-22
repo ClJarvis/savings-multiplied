@@ -18,7 +18,7 @@ h1 { color:  red;
 
 .topbody {
 	background-color:  white;
-	height:  220px;
+	height:  180px;
 	width:  ;
 	border-radius:  25px;
 	margin:  -100px  0 15px -0;
@@ -42,7 +42,35 @@ h1 { color:  red;
 
 nav{
 	background-color:  #F3CECD;
-	color:  #E9168C;
-	margin:  -20px  0 15px -0;
+	color:  #6F1549;
+	margin:  -20px  -20px 15px  -20px;
+	padding: 2px 0 2px 0;
+	height:  30px;
+	min-width:  700px;
+}
 
+.nav-links {
+	list-style: none;
+	display: inline-block;
+	font-size:  15px;
+	margin: -20px;
+      float: auto;
+      padding: 0 4px 25px 75px;
+	width: -webkit-fit-content;
+      width: -moz-fit-content;
+      width: fit-content;
+}
+
+/*li {
+	display: inline-block;
+
+	display: inline-block;
+	padding: 15px;
+	color:  #6F1549;
+}*/
+
+h3{
+	display: inline-block;
+	padding: 15px;
+	color:  #6F1549;
 }

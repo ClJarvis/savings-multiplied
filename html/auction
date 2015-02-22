@@ -1,0 +1,35 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+   <link rel="stylesheet" type="text/css" href="../css/main.css">
+  <title>Saving Multiplied Project</title>
+  <!-- start with general page then add two toned blued background first  see README file-->
+</head>
+<header>
+<div>
+	<P>
+	<div>
+</header>
+
+<body>
+
+<div class="topbody">
+<img id = "logo" src="../images/savings-multiplied-logo.png">
+</div>
+
+<nav>
+	<h3>Buy</h3>
+</nav>
+
+<div class="mainbody">
+
+</div>
+
+
+
+
+
+</body>
+</html>
