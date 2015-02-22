@@ -1,13 +1,13 @@
 #Savings Multiplied Instructions
 
 ###Part 1
-Inside the doc folder in this repository you will find two files:  auction-page.png and home-page.png.  Imagine that you have been handed these two files to you by a designer.  It is your task as a web designer to build these two pages using ONLY html and CSS.  
+Inside the doc folder in this repository you will find two files:  auction-page.png and home-page.png.  Imagine that you have been handed these two files to you by a designer.  It is your task as a web designer to build these two pages using ONLY html and CSS.
 
 Since these pages have been approved by a client it is important that your html pages look EXACTLY the same as the two mockups you have been given.  You will find all of the images needed in the images folder.  Do your best at matching colors.
 
 At minimum you should create the following files:
 
-1. home.html 
+1. home.html
 2. auction.html
 3. home.css
 4. auction.css
@@ -32,4 +32,4 @@ Colors:
 -  Bright Pink: #E9168C
 -  Bright Purple: #6F308B
 -  Dark Purple: #6F1549
-
+-  nav bar #F3CECD
