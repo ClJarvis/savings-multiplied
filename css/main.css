@@ -16,35 +16,144 @@ h1 { color:  red;
 	background: yellow;
 } */
 
+/*  BODY */
+
+.sign_in{
+	float: right;
+	color: #69C4CC;
+	margin: -100px 25px 0 0;
+}
+
 .topbody {
 	background-color:  white;
 	height:  180px;
-	width:  ;
-	border-radius:  25px;
-	margin:  -100px  0 15px -0;
-	padding:  0 100px 0 0;
-}
+	width:  90%;
 
-#logo {
-	margin:  -45px  20px;
+	border-radius:  25px 25px 0 0;
+	margin:  -70px  0 15px  0;
+	padding:  0 100px 0 0;
 }
 
 
 .mainbody {
 	background-color:  white;
-	height:  450px;
-	width:  ;
-	border-radius:  25px;
-	margin:  -20px  0 15px -0;
+	height:  550px;
+	width:  90%;
+	border-radius:  0 0 25px 25px;
+	border-top-left-radius: 35px;
+	margin:  -19px  0 15px  0;
 	padding:  0 100px 0 0;
 }
+
+
+/* ///// IMAGES ////////////////////////*/
+
+#logo {
+	margin:  -45px  20px;
+	float:  clear;
+}
+
+
+#tagline{
+	float: right;
+}
+
+#tree{
+	float:  right;
+}
+
+/*TWO Columns*/
+
+.left_hand_text{
+	float:  left;
+
+	width:  375px;
+	margin: 0 auto;
+
+}
+
+.children{
+	float:  right;
+	width:  375px;
+	margin: 0 auto;
+}
+
+/* rows
+
+.row_one{
+	float:  left;
+	width:  auto;
+	margin: 0 auto;
+}
+
+.row_two{
+	float:  left;
+	width:  auto;
+	margin: 0 auto;
+}
+
+.row_three{
+	float:  left;
+	width:  auto;
+	margin: 0 auto;
+}    */
+
+/* BUTTONS ///////////////////// */
+
+form{
+	float:  right;
+	margin-top:  -45px;
+}
+
+#about_button {
+border-radius: 40px;
+border-style: none;
+margin-top: 5px;
+color:  white;
+height: 20px;
+width: 100px;
+background: #69C4CC;
+border-color: #69C4CC;
+}
+
+#contact_button {
+border-radius: 40px;
+border-style: none;
+color:  white;
+height: 22px;
+width: 100px;
+background: #99CC33;
+border-color: #CCFF99;
+}
+
+#blog_button {
+border-radius: 40px;
+border-style: none;
+color:  white;
+height: 22px;
+width: 100px;
+background: #6F308B;
+border-color: #6F308B;
+}
+
+#press_button {
+border-radius: 40px;
+border-style: none;
+color:  white;
+ height: 22px;
+ width: 100px;
+background: #E9168C;
+border-color: #E9168C;
+}
+
+
 
 
 nav{
 	background-color:  #F3CECD;
 	color:  #6F1549;
-	margin:  -20px  -20px 15px  -20px;
-	padding: 2px 0 2px 0;
+	margin:  -29px  -20px 18px  -20px;
+	padding: 2px 0 15px 0;
 	height:  30px;
 	min-width:  700px;
 }
@@ -73,4 +182,18 @@ h3{
 	display: inline-block;
 	padding: 15px;
 	color:  #6F1549;
+}
+
+.bottom_link {
+	text-align: center;
+}
+
+footer  {
+	color: white;
+	margin: 0;
+}
+
+footer  a {
+	color: white;
+
 }
