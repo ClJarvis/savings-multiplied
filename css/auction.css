@@ -1,0 +1,51 @@
+.form_panel{
+	background-color:  #CCFFCC;
+	height:  600px;
+	width:  200px;
+	border-radius:  40px;
+	margin-top:  0px;
+	margin-left: 30px;
+	color: #99CC33;
+	padding-top: 20px;
+}
+
+fieldset{
+	margin-top: 0px;
+}
+
+#search_button {
+background: #99CC33;
+border-color: #69C4CC;
+border-style: none;
+border-radius:  40px;
+color: white;
+}
+
+#brand {
+	color: #CCFFCC;
+}
+
+::-webkit-select-placeholder {
+   color:#CCFFCC;
+}
+
+.bottom_link {
+	text-align: center;
+	margin-top:  40px;
+}
+
+
+footer  {
+	color: red
+	margin: 0;
+}
+
+footer  a {
+	color: white;
+
+}
+.auction_items{
+	float:  right;
+	width:  45%;
+	margin: 0 auto;
+}
