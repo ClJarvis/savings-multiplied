@@ -37,10 +37,9 @@ h1 { color:  red;
 
 .mainbody {
 	background-color:  white;
-	height:  550px;
+	height:  650px;
 	width:  90%;
 	border-radius:  0 0 25px 25px;
-	border-top-left-radius: 35px;
 	margin:  -19px  0 15px  0;
 	padding:  0 100px 0 0;
 }
@@ -60,22 +59,46 @@ h1 { color:  red;
 
 #tree{
 	float:  right;
+	margin-top:  75px;
+	margin-right:  0;
 }
 
 /*TWO Columns*/
 
 .left_hand_text{
 	float:  left;
-
-	width:  375px;
+      background: white;
+	width:  45%;
 	margin: 0 auto;
-
+	padding: 15px;
 }
+
+#buy{
+	color: #2A959E ;
+}
+
 
 .children{
 	float:  right;
-	width:  375px;
+	width:  45%;
 	margin: 0 auto;
+}
+
+#twins{
+	padding-bottom: 10px;
+}
+
+#triplets{
+	padding-bottom: 10px;
+}
+
+#quads{
+	padding-bottom: 20px;
+}
+
+
+#shop_now{
+	margin-top: -38px;
 }
 
 /* rows
@@ -170,6 +193,24 @@ nav{
       width: fit-content;
 }
 
+#search {
+width: 250px;
+border-radius: 40px;
+text-align: center;
+color:  #F3CECD;
+height: 22px;
+width: 100px;
+background: white;
+border-color: #E9168C;
+background-image:  url("../images/search.gif");
+background-repeat: no-repeat;
+}
+
+::-webkit-input-placeholder {
+   color:#F3CECD;
+}
+
+
 /*li {
 	display: inline-block;
 
@@ -182,11 +223,46 @@ h3{
 	display: inline-block;
 	padding: 15px;
 	color:  #6F1549;
+	font-weight: bold;
+
+}
+
+h2 {
+	color: #99CC33;
+	font-weight: bold;
+}
+
+.divider{
+	background-image:  url("../images/homepage/dotted_line_44x9.png");
+	background-repeat: repeat-x;
+	margin-top:  50px;
+	padding-top: 0;
+	clear: both;
+}
+
+.social_media{
+	text-align: center;
+	margin-left: 80px;
+}
+
+#facebook_icon{
+	padding-right: 25px;
+}
+#twitter_icon{
+	padding-right: 25px;
+}
+#message_icon{
+	padding-right: 25px;
+}
+#special_offers_icon{
+	padding-right: 25px;
 }
 
 .bottom_link {
 	text-align: center;
+	margin-top:  60px;
 }
+
 
 footer  {
 	color: white;
