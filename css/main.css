@@ -21,14 +21,13 @@ h1 { color:  red;
 .sign_in{
 	float: right;
 	color: #69C4CC;
-	margin: -100px 25px 0 0;
+	margin: -100px 65px 0 0;
 }
 
 .topbody {
 	background-color:  white;
 	height:  180px;
 	width:  90%;
-
 	border-radius:  25px 25px 0 0;
 	margin:  -70px  0 15px  0;
 	padding:  0 100px 0 0;
@@ -37,7 +36,7 @@ h1 { color:  red;
 
 .mainbody {
 	background-color:  white;
-	height:  650px;
+	height:  670px;
 	width:  90%;
 	border-radius:  0 0 25px 25px;
 	margin:  -19px  0 15px  0;
@@ -85,11 +84,12 @@ h1 { color:  red;
 }
 
 #twins{
-	padding-bottom: 10px;
+	padding-top: 15px;
+	padding-bottom: 15px;
 }
 
 #triplets{
-	padding-bottom: 10px;
+	padding-bottom: 15px;
 }
 
 #quads{
@@ -98,7 +98,7 @@ h1 { color:  red;
 
 
 #shop_now{
-	margin-top: -38px;
+	margin-top: -33px;
 }
 
 /* rows
@@ -193,9 +193,11 @@ nav{
       width: fit-content;
 }
 
+
+
 #search {
 width: 250px;
-border-radius: 40px;
+border-radius: 30px;
 text-align: center;
 color:  #F3CECD;
 height: 22px;
@@ -224,7 +226,7 @@ h3{
 	padding: 15px;
 	color:  #6F1549;
 	font-weight: bold;
-
+	margin-right: 30px;
 }
 
 h2 {
@@ -260,7 +262,7 @@ h2 {
 
 .bottom_link {
 	text-align: center;
-	margin-top:  60px;
+	margin-top:  40px;
 }
 
 
