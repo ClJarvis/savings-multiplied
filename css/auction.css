@@ -5,23 +5,23 @@
 	border-radius:  0 0 25px 25px;
 	margin:  -19px  0 15px  0;
 	padding:  0 100px 0 0;
-	border-color: black;
-	border-style: dotted;
+	/*border-color: black;
+	border-style: dotted;*/
 }
 
 
 
 .form_panel{
 	background-color:  #CCFFCC;
-	height:  595px;
+	height:  495px;
 	width:  200px;
 	border-radius:  40px;
-	margin-top:  30px;
+	margin-top:  0px;
 	margin-left: 30px;
 	color: #99CC33;
-	padding-top: 30px;
-	border-style: dotted;
-	border-color: red;
+	padding-top: 20px;
+	/*border-style: dotted;
+	border-color: red;*/
 
 }
 
@@ -31,8 +31,8 @@
 	width: 30%;
 	margin: 0 auto;
 	padding: 10px;
-	border-style: dotted;
-	border-color: red;
+	/*border-style: dotted;
+	border-color: red;*/
 
 }
 
@@ -41,8 +41,9 @@ body{
 }
 
 fieldset{
-	margin-top: 0px;
+	padding-top: 90px;
 	border-style: none;
+
 }
 
 #search_button {
@@ -94,8 +95,8 @@ color: white;
 }
 
 .sort_nav{
-	border-style: dotted;
-	border-color:  blue;
+	/*border-style: dotted;
+	border-color:  blue;*/
 	width:85%;
 }
 
