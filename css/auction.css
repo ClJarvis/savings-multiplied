@@ -1,16 +1,48 @@
+.mainbody {
+	background-color:  white;
+	height:  670px;
+	width:  90%;
+	border-radius:  0 0 25px 25px;
+	margin:  -19px  0 15px  0;
+	padding:  0 100px 0 0;
+	border-color: black;
+	border-style: dotted;
+}
+
+
+
 .form_panel{
 	background-color:  #CCFFCC;
-	height:  600px;
+	height:  595px;
 	width:  200px;
 	border-radius:  40px;
-	margin-top:  0px;
+	margin-top:  30px;
 	margin-left: 30px;
 	color: #99CC33;
-	padding-top: 20px;
+	padding-top: 30px;
+	border-style: dotted;
+	border-color: red;
+
+}
+
+.left_hand_side {
+	float:  left;
+      background: white;
+	width: 30%;
+	margin: 0 auto;
+	padding: 10px;
+	border-style: dotted;
+	border-color: red;
+
+}
+
+body{
+	color: #99CC33;
 }
 
 fieldset{
 	margin-top: 0px;
+	border-style: none;
 }
 
 #search_button {
@@ -25,8 +57,29 @@ color: white;
 	color: #CCFFCC;
 }
 
-::-webkit-select-placeholder {
-   color:#CCFFCC;
+.mid_panel{
+	float: center;
+	display: inline-block;
+	width:  30%;
+	margin: 0 auto;
+	/*border-style: dotted;
+	border-color:  blue;*/
+
+}
+
+.wrapper{
+	display: inline-block;
+	margin: auto;
+}
+
+.right_panel{
+
+	width:  31%;
+	margin: 0 auto;
+	/*border-color: green;
+	border-style: dotted;*/
+	padding-top: 0;
+	display: inline-block;
 }
 
 .bottom_link {
@@ -34,9 +87,25 @@ color: white;
 	margin-top:  40px;
 }
 
+#square{
+	height: 100px;
+	width: 100px;
+	background: #CCFFCC;
+}
+
+.sort_nav{
+	border-style: dotted;
+	border-color:  blue;
+	width:85%;
+}
+
+.results{
+	float: right;
+	margin-top: -18px;
+}
 
 footer  {
-	color: red
+	color: white;
 	margin: 0;
 }
 
@@ -44,8 +113,10 @@ footer  a {
 	color: white;
 
 }
-.auction_items{
-	float:  right;
-	width:  45%;
-	margin: 0 auto;
+
+select{
+	color: red;
 }
+
+::selection { background: yellow; }
+
