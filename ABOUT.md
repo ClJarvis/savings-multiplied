@@ -1,17 +1,18 @@
 # Chris Jarvis
 
-##Heading 2
+##Developer
 
-### Heading 3
+### Blogger
 
-
-1. Item 1
-2 Item 2
-3.tem 3
-4.Item 4
+[My Photography Blog](http://www.yodaarchives.com)
 
 
-<hr/>
+1. I live in Nashville
+1. I'm learning coding at Nashville software school.
+1.item 3
+1. item 4
+
+
 
 
 * Bullet 1
@@ -24,5 +25,5 @@ var thisVariable = "awesome variable";
 
 >"That" - She
 
-[a link to me](http://www.stevebrownlee.com)
+
 
