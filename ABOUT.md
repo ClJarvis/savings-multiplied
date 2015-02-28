@@ -4,8 +4,8 @@
 
 ### Blogger
 
-[My Photography Blog](http://www.yodaarchives.com)
-[Twitter](http://www.twitter@CL_Jarvis.com)
+[My Photography Blog](http://www.yodaarchives.com)<br>
+[Twitter](https://twitter.com/CL_Jarvis)
 
 1. I live in Nashville
 1. I'm learning coding at Nashville software school.
@@ -17,8 +17,8 @@
 
 
 
-* Bullet 1
-* Bullet 2
+* git hub
+* codepen
 
 
 ```
